@@ -5,6 +5,16 @@ API Observatory is a powerful and privacy-focused Windows desktop application de
 
 With API Observatory, you can identify API endpoints, inspect request and response information, analyze CORS behavior, classify endpoints, and organize discovered APIs without manually inspecting every network request.
 
+## 📸 Screenshots
+
+### 🖥️ Main Dashboard
+
+![API Observatory Dashboard](screenshots/dashboard.png)
+
+### 📋 Endpoint Details
+
+![API Observatory Details](screenshots/details.png)
+
 ## ✨ Features
 - 🔍 API Endpoint Discovery: Automatically detect and identify API endpoints from browser traffic
 - 🌐 HTTP/HTTPS Traffic Observation: Passively observe browser requests through a local proxy
